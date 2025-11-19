@@ -33,7 +33,7 @@ This project is licensed under the MIT License.
 See the LICENSE file for details.
 
 Contact
-Created by Asad Ullah – asadjn99.netlify.app | linkedin.com/in/asad-jn99
+Created by Asad Ullah – https://asadjn99.netlify.app/ | https://www.linkedin.com/in/asad-jn99
 
 “Why I built this”
 I built ChronoMax to help remote teams and travelers easily track time around the world, with a clean, modern interface that’s fun to use.
