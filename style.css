@@ -1,0 +1,60 @@
+
+    .glass-effect {
+      background: rgba(26, 26, 26, 0.7);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+    
+    .light-glass {
+      background: rgba(255, 255, 255, 0.7);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+    
+    .analog-clock {
+      width: 144px;
+      height: 144px;
+      border: 3px solid #3b82f6;
+      border-radius: 50%;
+      position: relative;
+      background: rgba(17, 17, 17, 0.8);
+      box-shadow: 0 0 20px rgba(59, 130, 246, 0.3);
+    }
+    
+    .hand {
+      position: absolute;
+      bottom: 50%;
+      left: 50%;
+      transform-origin: bottom center;
+      border-radius: 10px;
+    }
+    
+    .hour-hand {
+      width: 4px;
+      height: 35px;
+      background: #60a5fa;
+    }
+    
+    .minute-hand {
+      width: 3px;
+      height: 50px;
+      background: #93c5fd;
+    }
+    
+    .second-hand {
+      width: 2px;
+      height: 60px;
+      background: #3b82f6;
+    }
+    
+    /* Clock numbers */
+    .clock-number {
+      position: absolute;
+      font-size: 14px;
+      font-weight: bold;
+      color: #60a5fa;
+    }
+    
+    .light-mode .clock-number {
+      color: #2563eb;
+    }
