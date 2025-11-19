@@ -9,7 +9,6 @@ Features:
 💻 Lightweight and fast, built with vanilla JavaScript
 
 Demo:
-Include a screenshot or GIF here to show your app in action. Example:
 ![ChronoMax Preview](./screenshot.png)
 
 
@@ -21,7 +20,7 @@ Tailwind CSS
 
 Installation / Usage:
 Clone the repository:
-git clone https://github.com/your-username/chrono-max.git
+git clone https://github.com/asadjn99/chrono-max.git
 Open index.html in your browser
 Enjoy tracking global time!
 
